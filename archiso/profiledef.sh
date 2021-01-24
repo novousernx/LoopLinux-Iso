@@ -3,8 +3,8 @@
 
 iso_name="looplinux"
 iso_label="looplinux-v21.03.1"
-iso_publisher="Loop Linux "
-iso_application="Loop Linux Live/Rescue CD"
+iso_publisher="LoopLinux "
+iso_application="LoopLinux Live/Rescue CD"
 iso_version="v21.03.1"
 install_dir="arch"
 bootmodes=('bios.syslinux.mbr' 'bios.syslinux.eltorito' 'uefi-x64.systemd-boot.esp' 'uefi-x64.systemd-boot.eltorito')
