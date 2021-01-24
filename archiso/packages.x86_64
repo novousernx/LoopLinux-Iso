@@ -440,6 +440,9 @@ looplinux-system-config-git
 alacritty-git
 conky-lua-archers
 etcher-bin
+gitahead
+gitfind
+gitkraken
 mkinitcpio-openswap
 luckybackup
 polybar-git
