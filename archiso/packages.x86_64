@@ -436,6 +436,7 @@ looplinux-dconf-git
 looplinux-bspwm-local-git
 looplinux-root-git
 looplinux-pipemenus-git
+looplinux-system-config-git
 alacritty-git
 conky-lua-archers
 etcher-bin
