@@ -83,12 +83,12 @@ echo
 			echo "################################################################"
 			yay -S --noconfirm $package
 
-		#elif pacman -Qi trizen &> /dev/null; then
+		elif pacman -Qi trizen &> /dev/null; then
 
-		#	echo "################################################################"
-		#	echo "######### Installing with trizen"
-		#	echo "################################################################"
-		#	trizen -S --noconfirm --needed --noedit $package
+			echo "################################################################"
+			echo "######### Installing with trizen"
+			echo "################################################################"
+			trizen -S --noconfirm --needed --noedit $package
 
 		fi
 
